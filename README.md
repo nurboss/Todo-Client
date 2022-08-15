@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Todo-App[Live site](https://todo-app-a7ffc.web.app/).
+Todo-App-Server[Live site](https://safe-meadow-13717.herokuapp.com/).
 
 ## Available Scripts
 
