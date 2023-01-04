@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-Todo-App[Live site](https://todo-app-a7ffc.web.app/).
-Todo-App-Server[Live site](https://safe-meadow-13717.herokuapp.com/).
+Todo-App[Live site](https://stupendous-khapse-e1d02e.netlify.app/).
+Todo-App-Server[Live site](todo-server-nur.up.railway.app).
 
 ## Available Scripts
 
